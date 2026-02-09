@@ -91,7 +91,43 @@ const chirag = {
   />
 </p>
 
+<div align="center">
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ChiragSood1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D4FF&title_color=00D4FF&ring_color=FF6B6B&text_bold=true" />
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragSood1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&langs_count=8&card_width=320" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ChiragSood1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=00D4FF&sideLabels=FFFFFF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragSood1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 GitHub Contribution Snake Game
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
+
+</div>
+
+
 
 <br><br>
 
 <h2 align="center"><i>“Learning by building — one project at a time.”</i></h2>
+<h2 align="center">“Made With ❤️ And lots of ☕️ by Chirag”</h2>
