@@ -4,7 +4,7 @@
 
 **Backend Developer** • Haryana, India 🇮🇳
 
-[![Portfolio](https://img.shields.io/badge/chiragsood.vercel.app-5865F2?style=flat-square&logo=google-chrome&logoColor=white)](https://chiragsood.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/chiragsood.vercel.app-5865F2?style=flat-square&logo=google-chrome&logoColor=white)](https://chiragsood.com/)
 [![Instagram](https://img.shields.io/badge/@mainchiraghoon-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mainchiraghoon/?hl=en)
 [![Email](https://img.shields.io/badge/chiragsood25%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chiragsood25@gmail.com)
 
